@@ -1,0 +1,11 @@
+Administração 2 3 2 2 1
+Ciências Econômicas 1 4 2 2 1
+Comunicação Social 3 1 3 2 1
+Design 2.5 2 2.5 2 1
+Engenharia Civil 1 3 2 1 3
+Engenharia de Produção 2 3 2 1 2
+Física - Licenciatura 2 3 1 1 3
+Matemática - 2 4 1.5 1 1.5
+Medicina 2.5 1.5 1.5 2 2.5
+Pedagogia - Licenciatura 1 2.5 2.5 2 2
+Química - Licenciatura 1 3 2 1 3

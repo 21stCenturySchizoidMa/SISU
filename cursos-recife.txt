@@ -1,0 +1,71 @@
+Administração 2.5 2.5 2 2 1
+Arqueologia 2 1 2 3 2
+Arquitetura e Urbanismo 1 2.5 2 2.5 2
+Artes Visuais - Licenciatura 4 1 2 2 1
+Artes Visuais - bacharelado 4 1 2 2 1
+Biblioteconomia 3 1 2 3 1
+Biomedicina 2.5 2 1 1 3.5
+Ciências Atuariais 1 4 2 2 1
+Ciências Biológicas - Bacharelado 2.5 2 1 1 3.5
+Ciências Biológicas/Ênfase em Ciências Ambientais - Bacharelado 3 2 2 1 2
+Ciências Biológicas - Licenciatura 3 2 1 1 3
+Ciências Contábeis 3 3 1.5 1.5 1
+Ciência da Computação 2 4 2 1 1
+Ciências Econômicas 1 4 2 2 1
+Ciência Política com Ênfase em Relações Internacionais 1 2 3 3 1
+Ciências Sociais - Bacharelado 3 1 2 3 1
+Ciências Sociais - Licenciatura 3 1 2 3 1
+Cinema e Audiovisual 3 1 3 2 1
+Design 2 2 2.5 2.5 1
+Direito 3 1 3 2 1
+Educação Física - Bacharelado 2.5 1.5 2 1.5 2.5
+Educação Física - Licenciatura 2 1 2 3 2
+Enfermagem 3 1.5 2 1 2.5
+Engenharia Biomédica 2 3 2 1 2
+Engenharia Cartográfica de Agrimensura 1.5 3.5 1 1 3
+Engenharia CTG(ABI) 1.5 3.5 1 1 3
+Engenharia da Computação 2 4 1 1 2
+Engenharia de Minas 1.5 3.5 1 1 3
+Engenharia de Produção 2 3 1.5 1.5 2
+Estatística 1.5 3 1.5 1 3
+Expressão Gráfica - Licenciatura 1 3 2 3 1
+Farmácia 2.5 1.5 1.5 1 3.5
+Filosofia - Bacharelado 2 1 2 3 2
+Filosofia - Licenciatura 2 1 2 3 2
+Física - Bacharelado 2 4 1 1 2
+Física - Licenciatura 2 4 1 1 2
+Fisoterapia 3 1 2 1 3
+Fonoaudiologia 3 1 2 2 2
+Geografia - Bacharelado 3 1 2 3 1
+Geografia - Licenciatura 3 1 2 3 1
+Geologia 2 2 2 1 3
+Gestão da Informação - Bacharelado 3.5 1 2 2.5 1
+História - Bacharelado 3 1 2 3 1
+História - Licenciatura 3 1 2 3 1
+Hotelaria 3 2 2 2 1
+Jornalismo 3 1 2.5 2.5 1
+Letras - Bacharelado 2.5 1 3 2.5 1
+Letras - Licenciatura em Português 2.5 1 3 2.5 1
+Letras - Licenciatura em Espanhol 2.5 1 3 2.5 1
+Letras - Licenciatura em Inglês 2.5 1 3 2.5 1
+Letras - Licenciatura em Francês 2.5 1 3 2.5 1 
+Matemática - Bacharelado 2 4.5 1 1 1.5
+Matemática - Licenciatura 2 4 1.5 1 1.5
+Medicina 2 2 2 1 3
+Museologia - Bacharelado 3 1 2 3 1
+Nutrição - Bacharelado 2.5 1.5 1.5 2 2.5
+Oceanografia - Bacahrelado 2 3 1.5 1 1.5
+Odontologia 3 1 1.5 1.5 3
+Pedagogia - Licenciatura 2.5 1.5 2.5 2 1.5
+Psicologia 2.5 1 1.5 3 2
+Publicidade e Propaganda 3 1 2.5 2.5 1
+Rádio, TV e Internet 3 1 2.5 2.5 1
+Química Industrial 1 3 2 1 3
+Química - Bacharelado 2 2 2 1 3
+Química - Licenciatura 2 2 2 1 3
+Secretariado 3 1.5 2.5 2 1
+Serviço Social 3 1 2 3 1
+Sitemas de Informação 3 4 1 1 1
+Teatro - Licenciatura 3.5 1 2.5 2 1
+Terapia Ocupacional 2.5 1 2 2 2.5
+Turismo 3 2 2 2 1  

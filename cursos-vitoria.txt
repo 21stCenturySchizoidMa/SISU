@@ -1,0 +1,6 @@
+Ciêncais Biológicas - Licenciaturas 2.5 1.5 2 1.5 2.5
+Educação Física - Bacharelado 2 2 2 1.5 2.5
+Educação Física - Licenciatura 2 2 2 1.5 2.5
+Enfermagem 2 1.5 2 1.5 3
+Nutrição 1 2.5 2 1.5 3
+Saúde Coletiva 2 1.5 2 2.5 2
