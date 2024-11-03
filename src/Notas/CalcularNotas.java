@@ -3,7 +3,9 @@ package Notas;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 
@@ -11,13 +13,16 @@ public class CalcularNotas {
     private double media;
     private final Map<String, float[]> cursosPesos = new HashMap<>();
 
-    public void CarregarDados(String campus) {
+    public List<String> CarregarDados(String campus) {
         String arquivo = switch (campus.toLowerCase()) {
             case "recife" -> "cursos-recife.txt";
             case "agreste" -> "cursos-agreste.txt";
             case "vitoria" -> "cursos-vitoria.txt";
             default -> null;
         };
+
+
+        List<String> cursos = new ArrayList<>();
 
         if (arquivo != null) {
             try (BufferedReader br = new BufferedReader(new FileReader(arquivo))) {
@@ -42,6 +47,7 @@ public class CalcularNotas {
                         pesos[i] = Float.parseFloat(partes[indiceInicioPesos + i]);
                     }
                     cursosPesos.put(curso, pesos);
+                    cursos.add(curso);
                 }
             } catch (IOException e) {
                 System.out.println("Erro ao carregar dados: " + e.getMessage());
@@ -49,6 +55,8 @@ public class CalcularNotas {
         } else {
             System.out.println("Campus inválido.");
         }
+
+        return cursos;
     }
 
     public double calcularNotas(double nota1, double nota2, double nota3, double nota4, double nota5, String curso) {

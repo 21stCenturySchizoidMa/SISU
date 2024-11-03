@@ -5,6 +5,8 @@ import Menus.Menuprincipal;
 import Notas.CalcularNotas;
 import SistemaDeLogin.UsuariosCadastro;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class Main {
@@ -55,7 +57,18 @@ public class Main {
                                     System.out.print("\nDigite o campus (recife, agreste, vitoria): ");
                                     String campus = sc.next().toLowerCase();
 
-                                    calc.CarregarDados(campus);
+                                    List<String> cursosDisponiveis = calc.CarregarDados(campus);
+
+                                    if (cursosDisponiveis != null && !cursosDisponiveis.isEmpty()) {
+                                        System.out.println("\nCursos disponíveis:");
+
+                                        for (String curso : cursosDisponiveis) {
+                                            System.out.println(curso);
+                                        }
+                                    } else {
+                                        System.out.println("\nNenhum curso encontrado para o campus: " + campus);
+                                        break; // Sai do case se não encontrou cursos
+                                    }
 
                                     System.out.print("\nDigite o curso:");
                                     sc.nextLine();
