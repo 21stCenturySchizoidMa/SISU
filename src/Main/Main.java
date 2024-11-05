@@ -5,12 +5,13 @@ import Menus.Menuprincipal;
 import Notas.CalcularNotas;
 import SistemaDeLogin.UsuariosCadastro;
 
-import java.util.ArrayList;
+import java.io.*;
+//import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args){
         Menuprincipal menu = new Menuprincipal();
         MenuSecundario tela = new MenuSecundario();
         UsuariosCadastro sistema = new UsuariosCadastro();
@@ -37,18 +38,63 @@ public class Main {
 
                             switch (subOpcao) {
                                 case "1":
-                                    System.out.println("\nLista de cursos e suas informações:");
-                                    System.out.printf(
-                                            "Medicina (Campus Caruaru): 859,08 - Vagas: 40 - Duração: 12 semestres%n" +
-                                                    "Medicina (Campus Recife): 827,78 - Vagas: 250 - Duração: 12 semestres%n" +
-                                                    "Ciência da Computação (Campus Recife): 802,68 - Vagas: 60 - Duração: 8 semestres%n" +
-                                                    "Sistemas de Informação (Campus Recife): 798,97 - Vagas: 60 - Duração: 8 semestres%n" +
-                                                    "Engenharia da Computação (Campus Recife): 786,12 - Vagas: 60 - Duração: 10 semestres%n" +
-                                                    "Direito (Campus Recife) Matutino: 760,16; Noturno: 745,24 - Vagas: 90 - Duração: 10 semestres%n" +
-                                                    "Engenharia Biomédica: 743,67 - Vagas: 40 - Duração: 10 semestres%n" +
-                                                    "Artes Visuais: 740,95 - Vagas: 40 - Duração: 8 semestres%n" +
-                                                    "Odontologia: 739,65 - Vagas: 50 - Duração: 10 semestres%n"
-                                    );
+                                    String unidade;
+                                    Scanner r = new Scanner(System.in);
+                                    System.out.print("Escolha uma unidade(Recife, Vitoria, Agreste): ");
+                                    unidade = r.nextLine();
+
+                                    if (unidade.equalsIgnoreCase("Recife")) {
+
+                                        String caminhoArquivo = "C:/Users/ruan.linhares/Desktop/temp/Projeto-SISU/cursos-recife.txt";
+                                        BufferedReader leitor;
+                                        try {
+                                            FileReader leitorArquivos = new FileReader(caminhoArquivo);
+                                            leitor = new BufferedReader(leitorArquivos);
+                                            String line = leitor.readLine();
+
+                                            while (line != null) {
+                                                line = leitor.readLine();
+                                                System.out.println(line);
+                                            }
+                                        } catch (Exception erro) {
+                                            System.out.println("Lista não encontrada");
+                                            System.out.println(erro.getMessage());
+                                        }
+                                    } else if (unidade.equalsIgnoreCase("Vitoria")) {
+                                        String caminhoArquivo = "C:/Users/ruan.linhares/Desktop/temp/Projeto-SISU/cursos-vitoria.txt";
+                                        BufferedReader leitor;
+                                        try {
+                                            FileReader leitorArquivos = new FileReader(caminhoArquivo);
+                                            leitor = new BufferedReader(leitorArquivos);
+                                            String line = leitor.readLine();
+
+                                            while (line != null) {
+                                                line = leitor.readLine();
+                                                System.out.println(line);
+                                            }
+                                        } catch (Exception erro) {
+                                            System.out.println("Lista não encontrada");
+                                            System.out.println(erro.getMessage());
+                                        }
+                                    } else if (unidade.equalsIgnoreCase("Agreste")) {
+                                        String caminhoArquivo = "C:/Users/ruan.linhares/Desktop/temp/Projeto-SISU/cursos-agreste.txt";
+                                        BufferedReader leitor;
+
+                                        try {
+                                            FileReader leitorArquivos = new FileReader(caminhoArquivo);
+                                            leitor = new BufferedReader(leitorArquivos);
+                                            String line = leitor.readLine();
+
+
+                                            while (line != null) {
+                                                line = leitor.readLine();
+                                                System.out.println(line);
+                                            }
+                                        } catch (Exception erro) {
+                                            System.out.println("Lista não encontrada");
+                                            System.out.println(erro.getMessage());
+                                        }
+                                    }
                                     break;
 
                                 case "2":
@@ -121,7 +167,7 @@ public class Main {
                                     System.out.println("\nOpção inválida!");
                                     break;
                             }
-                        } while (!subOpcao.equals("4") && !sair);
+                        } while (!subOpcao.equals("4"));
                     }
 
                     else {
