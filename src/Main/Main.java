@@ -1,10 +1,11 @@
 package Main;
 
+import Curso.ListarCursos;
 import Menus.MenuSecundario;
 import Menus.Menuprincipal;
 import Notas.CalcularNotas;
 import SistemaDeLogin.UsuariosCadastro;
-
+import java.util.List;
 import java.util.Scanner;
 
 public class Main {
@@ -35,18 +36,8 @@ public class Main {
 
                             switch (subOpcao) {
                                 case "1":
-                                    System.out.println("\nLista de cursos e suas informações:");
-                                    System.out.printf(
-                                            "Medicina (Campus Caruaru): 859,08 - Vagas: 40 - Duração: 12 semestres%n" +
-                                                    "Medicina (Campus Recife): 827,78 - Vagas: 250 - Duração: 12 semestres%n" +
-                                                    "Ciência da Computação (Campus Recife): 802,68 - Vagas: 60 - Duração: 8 semestres%n" +
-                                                    "Sistemas de Informação (Campus Recife): 798,97 - Vagas: 60 - Duração: 8 semestres%n" +
-                                                    "Engenharia da Computação (Campus Recife): 786,12 - Vagas: 60 - Duração: 10 semestres%n" +
-                                                    "Direito (Campus Recife) Matutino: 760,16; Noturno: 745,24 - Vagas: 90 - Duração: 10 semestres%n" +
-                                                    "Engenharia Biomédica: 743,67 - Vagas: 40 - Duração: 10 semestres%n" +
-                                                    "Artes Visuais: 740,95 - Vagas: 40 - Duração: 8 semestres%n" +
-                                                    "Odontologia: 739,65 - Vagas: 50 - Duração: 10 semestres%n"
-                                    );
+                                    ListarCursos listar = new ListarCursos();
+                                    listar.listarCursosPorCampus();
                                     break;
 
                                 case "2":
@@ -55,7 +46,18 @@ public class Main {
                                     System.out.print("\nDigite o campus (recife, agreste, vitoria): ");
                                     String campus = sc.next().toLowerCase();
 
-                                    calc.CarregarDados(campus);
+                                    List<String> cursosDisponiveis = calc.CarregarDados(campus);
+
+                                    if (cursosDisponiveis != null && !cursosDisponiveis.isEmpty()) {
+                                        System.out.println("\nCursos disponíveis:");
+
+                                        for (String curso : cursosDisponiveis) {
+                                            System.out.println(curso);
+                                        }
+                                    } else {
+                                        System.out.println("\nNenhum curso encontrado para o campus: " + campus);
+                                        break; // Sai do case se não encontrou cursos
+                                    }
 
                                     System.out.print("\nDigite o curso:");
                                     sc.nextLine();
@@ -100,6 +102,16 @@ public class Main {
                                     break;
 
                                 case "4":
+                                    System.out.println("atualize suas informaçoes");
+                                    for(UsuariosCadastro user : sistema.getUsuarios()) {
+                                        if (user.getLogin().equals(login)) {
+                                            user.atualizarInformacoesDoUsuario();
+                                            System.out.println("suas informacoes foram atualizadas");
+                                        }
+                                    }
+                                    break;
+
+                                case "5":
                                     System.out.println("Saindo do sistema...");
                                     sair = true;
                                     break;
@@ -108,10 +120,8 @@ public class Main {
                                     System.out.println("\nOpção inválida!");
                                     break;
                             }
-                        } while (!subOpcao.equals("4") && !sair);
-                    }
-
-                    else {
+                        } while (!subOpcao.equals("5") && !sair);
+                    } else {
                         System.out.println("\nUsuário não encontrado!");
                     }
                     break;
@@ -119,8 +129,10 @@ public class Main {
                 case "2":
                     System.out.print("\nCadastre seu login: ");
                     String novoLogin = menu.getScanner().next();
-                    System.out.print("\nDigite sua senha: ");
+                    System.out.print("Digite sua senha: ");
                     String novaSenha = menu.getScanner().next();
+
+                    menu.getScanner().nextLine();
 
                     sistema.adicionarNovoUsuario(novoLogin, novaSenha);
                     break;

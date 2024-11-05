@@ -10,7 +10,9 @@ public class UsuariosCadastro {
 
     private String login;
     private String senha;
-    private String nome, idade, email, telefone;
+    private String nome, cpf, idade, email, telefone;
+    public String escolha;
+    public String novoDado;
 
     public UsuariosCadastro(String login, String senha) {
         this.login = login;
@@ -34,23 +36,98 @@ public class UsuariosCadastro {
         telefone = sc.nextLine();
     }
 
-    public String getNome() { return nome; }
-    public String getIdade() { return idade; }
-    public String getEmail() { return email; }
-    public String getTelefone() { return telefone; }
+    public String getNome() {
+        return nome;
+    }
 
-    // Atualizamos o toString para adicionar um delimitador claro
-    @Override
+    public String getCpf() {
+        return cpf;
+    }
+
+    public String getIdade() {
+        return idade;
+    }
+
+    public String getEmail() {
+        return email;
+    }
+
+    public String getTelefone() {
+        return telefone;
+    }
+
     public String toString() {
         return login + " | " + senha + " | " + nome + " | " + idade + " | " + email + " | " + telefone;
+    }
+
+    public void atualizarInformacoesDoUsuario() {
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Você deseja atualizar um dado específico? (sim/nao): ");
+        escolha = sc.nextLine();
+
+        if (escolha.equalsIgnoreCase("sim")) {
+            do {
+                System.out.print("\nQual dado você deseja atualizar? (nome, idade, email, telefone)");
+                novoDado = sc.nextLine();
+
+                switch (novoDado.toLowerCase()) {
+                    case "nome":
+                        System.out.print("\nDigite seu novo nome: ");
+                        this.nome = sc.nextLine();
+                        break;
+
+                    case "idade":
+                        System.out.print("Digite sua nova idade: ");
+                        this.idade = sc.nextLine();
+                        break;
+
+                    case "email":
+                        System.out.print("Digite seu novo e-mail: ");
+                        this.email = sc.nextLine();
+                        break;
+
+                    case "telefone":
+                        System.out.print("Digite seu novo telefone: ");
+                        this.telefone = sc.nextLine();
+                        break;
+
+                    default:
+                        System.out.println("Dado inválido. Tente novamente.");
+                        continue;
+                }
+
+                System.out.print("\nVocê deseja atualizar outro dado? (sim/nao): ");
+                escolha = sc.nextLine();
+            } while (escolha.equalsIgnoreCase("sim"));
+        } else if (escolha.equalsIgnoreCase("nao")) {
+            System.out.print("\nDeseja atualizar todos os seus dados? (sim/nao): ");
+            escolha = sc.nextLine();
+
+            if (escolha.equalsIgnoreCase("sim")) {
+                System.out.print("Digite seu novo nome: ");
+                this.nome = sc.nextLine();
+                System.out.print("Digite sua nova idade: ");
+                this.idade = sc.nextLine();
+                System.out.print("Digite seu novo e-mail: ");
+                this.email = sc.nextLine();
+                System.out.print("Digite seu novo telefone: ");
+                this.telefone = sc.nextLine();
+            } else {
+                System.out.println("Nenhum dado foi alterado.");
+            }
+        } else {
+            System.out.println("Opção inválida. Operação cancelada.");
+            return;
+        }
+
+        salvarDados();
+        System.out.println("Informações atualizadas com sucesso!");
     }
 
     public void adicionarNovoUsuario(String login, String senha) {
         if (verificarUsuarioExistente(login)) {
             System.out.println("Usuário existente!");
-        }
-
-        else {
+        } else {
             this.login = login;
             this.senha = senha;
             informacoesDoUsuario();
@@ -94,11 +171,10 @@ public class UsuariosCadastro {
         this.senha = senha;
     }
 
-    // Modificação no carregarDados para verificar o delimitador " | "
     private static void carregarDados() {
         File file = new File(FILE_NAME);
         if (!file.exists()) {
-            return;  // Retorna sem erro se o arquivo não existir
+            return;
         }
 
         try (BufferedReader reader = new BufferedReader(new FileReader(FILE_NAME))) {
