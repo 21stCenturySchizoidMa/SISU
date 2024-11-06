@@ -1,10 +1,10 @@
-package Main;
+package View;
 
-import Curso.ListarCursos;
-import Menus.MenuSecundario;
-import Menus.Menuprincipal;
-import Notas.CalcularNotas;
-import SistemaDeLogin.UsuariosCadastro;
+import Model.Curso.ListarCursos;
+import View.Menus.MenuSecundario;
+import View.Menus.Menuprincipal;
+import Model.Notas.CalcularNotas;
+import Model.SistemaDeLogin.UsuariosCadastro;
 import java.util.List;
 import java.util.Scanner;
 
@@ -85,7 +85,7 @@ public class Main {
                                     if (media > 0) {
                                         System.out.printf("\nSua média é: %.2f", media);
                                     } else {
-                                        System.out.println("\nErro: Curso não encontrado.");
+                                        System.out.println("\nErro: Model.Curso não encontrado.");
                                     }
                                     break;
 
@@ -120,7 +120,7 @@ public class Main {
                                     System.out.println("\nOpção inválida!");
                                     break;
                             }
-                        } while (!subOpcao.equals("5") && !sair);
+                        } while (!subOpcao.equals("5"));
                     } else {
                         System.out.println("\nUsuário não encontrado!");
                     }
