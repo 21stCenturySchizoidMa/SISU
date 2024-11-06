@@ -63,7 +63,7 @@ public class CalcularNotas {
         float[] pesos = cursosPesos.get(curso);
 
         if (pesos == null) {
-            System.out.println("Model.Model.Model.Curso não encontrado.");
+            System.out.println("Model.Curso não encontrado.");
             return 0;
         }
 

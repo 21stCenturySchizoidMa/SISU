@@ -56,7 +56,7 @@ public class Main {
                                         }
                                     } else {
                                         System.out.println("\nNenhum curso encontrado para o campus: " + campus);
-                                        break;
+                                        break; // Sai do case se não encontrou cursos
                                     }
 
                                     System.out.print("\nDigite o curso:");
@@ -85,7 +85,7 @@ public class Main {
                                     if (media > 0) {
                                         System.out.printf("\nSua média é: %.2f", media);
                                     } else {
-                                        System.out.println("\nErro: Model.Model.Model.Curso não encontrado.");
+                                        System.out.println("\nErro: Model.Curso não encontrado.");
                                     }
                                     break;
 
@@ -120,7 +120,7 @@ public class Main {
                                     System.out.println("\nOpção inválida!");
                                     break;
                             }
-                        } while (!subOpcao.equals("5") && !sair);
+                        } while (!subOpcao.equals("5"));
                     } else {
                         System.out.println("\nUsuário não encontrado!");
                     }

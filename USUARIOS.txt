@@ -1,5 +1,2 @@
 RuanHCN | ruan123 | Ruan Henry | 19 | ruan123@gmail.com | 81922113344
-dudu | 1234 | eduardo de melo | 20 | dudu@gmail.com | 8198989898
-BelaSN | bela123 | Isabela Souza | 23 | isabela@gmail.com | 81977665544
-Ribamar1 | ribamar123 | Ribamar Soares | 34 | ribas@gmail.com | 81988990022
-Seyia | pegasus1 | Seyia de Pegasus | 13 | seyia@gmail.com | 81933221155
+ruan | ruan1234 | ruan linhares | 19 | ruan@gmail.com | 81982322590

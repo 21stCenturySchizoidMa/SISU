@@ -1,504 +1,504 @@
-Model.Model.Model.Curso: Administração
+Model.Curso: Administração
 Localização: Centro de Ciências Sociais Aplicadas
 Vagas oferecidas no Vestibular: 100 na 1ª Entrada (50 Manhã / 50 Noite) e 100 na 2ª Entrada (50 Manhã / 50 Noite)
 Turno(s): Manhã/Noite
 Carga Horária: 3000 horas
-Duração do Model.Model.Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
+Duração do Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
 Nota Máxima:
 Nota Mínima:
 
-Model.Model.Model.Curso: Arqueologia
-Localização do Model.Model.Model.Curso: Centro de Filosofia e Ciências Humanas
+Model.Curso: Arqueologia
+Localização do Model.Curso: Centro de Filosofia e Ciências Humanas
 Vagas oferecidas no Vestibular: 30 na 1ª Entrada
 Turno(s): Manhã/Tarde
 Carga Horária: 3270 horas
-Duração do Model.Model.Model.Curso: Mínima: 08 semestres /  Máxima: 14 semestres
+Duração do Model.Curso: Mínima: 08 semestres /  Máxima: 14 semestres
 Nota Máxima:
 Nota Mínima:
 
-Model.Model.Model.Curso: Arquitetura e Urbanismo
-Localização do Model.Model.Model.Curso: Centro de Tecnologia e Geociências
+Model.Curso: Arquitetura e Urbanismo
+Localização do Model.Curso: Centro de Tecnologia e Geociências
 Vagas oferecidas no Vestibular: 40 na 1ª Entrada
 Turno(s): Integral
 Carga Horária: 4200 horas
-Duração do Model.Model.Model.Curso: Mínima: 10 semestres / Máxima: 15 semestres
+Duração do Model.Curso: Mínima: 10 semestres / Máxima: 15 semestres
 Nota Máxima: 
 Nota Mínima:
 
-Model.Model.Model.Curso: Artes Visuais - Bacharelado
-Localização do Model.Model.Model.Curso: Centro de Artes e Comunicação
+Model.Curso: Artes Visuais - Bacharelado
+Localização do Model.Curso: Centro de Artes e Comunicação
 Vagas oferecidas no Vestibular: 35 na 1ª Entrada
 Turno(s): Manhã/Tarde
 Carga Horária: 2.810 horas
-Duração do Model.Model.Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
+Duração do Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
 
-Model.Model.Model.Curso: Artes Visuais - Licenciatura
-Localização do Model.Model.Model.Curso: Centro de Artes e Comunicação
+Model.Curso: Artes Visuais - Licenciatura
+Localização do Model.Curso: Centro de Artes e Comunicação
 Vagas oferecidas no Vestibular: 35 na 1ª Entrada
 Turno(s): Manhã/Tarde  
 Carga Horária: 2.810 horas 
-Duração do Model.Model.Model.Curso: Mínima - 8 Semestres/Máxima - 14 Semestres
+Duração do Model.Curso: Mínima - 8 Semestres/Máxima - 14 Semestres
 Nota Máxima:
 Nota Mínima:
 
-Model.Model.Model.Curso: Biblioteconomia
-Localização do Model.Model.Model.Curso: Centro de Artes e Comunicação
+Model.Curso: Biblioteconomia
+Localização do Model.Curso: Centro de Artes e Comunicação
 Vagas oferecidas no Vestibular: 55 na 1ª Entrada
 Turno(s): Tarde
 Carga Horária: 2.450 horas
-Duração do Model.Model.Model.Curso: Mínima – 08 Semestres/ Máxima – 12 Semestres
+Duração do Model.Curso: Mínima – 08 Semestres/ Máxima – 12 Semestres
 
-Model.Model.Model.Curso: Biomedicina
-Localização do Model.Model.Model.Curso: Centro de Ciências Biológicas
+Model.Curso: Biomedicina
+Localização do Model.Curso: Centro de Ciências Biológicas
 Vagas oferecidas no Vestibular: 60 na 1ª Entrada e 60 na 2ª Entrada
 Turno(s): Manhã/Tarde
 Carga Horária: 2760 horas
-Duração do Model.Model.Model.Curso: Mínima – 08 Semestres/Máxima – 12 Semestres
+Duração do Model.Curso: Mínima – 08 Semestres/Máxima – 12 Semestres
 
-Model.Model.Model.Curso: Ciências Atuariais
+Model.Curso: Ciências Atuariais
 Vagas oferecidas no Sisu: 30 na 1ª Entrada
 Turno(s): Os dois primeiros anos são pela Manhã e Tarde e os dois últimos anos são pela Noite.
 Carga Horária: 3000 horas
-Duração do Model.Model.Model.Curso: Mínima: 08 semestres  e Máxima: 16 semestres
+Duração do Model.Curso: Mínima: 08 semestres  e Máxima: 16 semestres
 
-Model.Model.Model.Curso: Ciências Biológicas - Bacharelado
-Localização do Model.Model.Model.Curso: Centro de Biociências
+Model.Curso: Ciências Biológicas - Bacharelado
+Localização do Model.Curso: Centro de Biociências
 Vagas oferecidas no Vestibular: 40 na 1ª Entrada e 40 na 2ª Entrada
 Turno(s): Manhã/Tarde
 Carga Horária: 4.155 horas
-Duração do Model.Model.Model.Curso: Mínima: 10 semestres / Máxima: 18 semestres
+Duração do Model.Curso: Mínima: 10 semestres / Máxima: 18 semestres
 
-Model.Model.Model.Curso: Ciências Biológicas/Ênfase em Ciências Ambientais - Bacharelado
-Localização do Model.Model.Model.Curso: Centro de Biociências
+Model.Curso: Ciências Biológicas/Ênfase em Ciências Ambientais - Bacharelado
+Localização do Model.Curso: Centro de Biociências
 Vagas oferecidas no Vestibular: 40 na 1ª Entrada e 40 na 2ª Entrada
 Turno(s): Tarde/Noite
 Carga Horária: 4.155 horas
-Duração do Model.Model.Model.Curso: Mínima – 10 Semestres / Máxima – 18 Semestres
+Duração do Model.Curso: Mínima – 10 Semestres / Máxima – 18 Semestres
 
-Model.Model.Model.Curso: Ciências Biológicas - Licenciatura
+Model.Curso: Ciências Biológicas - Licenciatura
 Localização: Centro de Ciências Biológicas
 Vagas oferecidas no Vestibular: 100 (1ª Entrada – 50 / 2ª Entrada – 50)
 Turno: Noite
 Carga Horária: 3300 horas
-Duração do Model.Model.Model.Curso: Mínima – 08 Semestres/Máxima – 14 Semestres
+Duração do Model.Curso: Mínima – 08 Semestres/Máxima – 14 Semestres
 
-Model.Model.Model.Curso: Ciências Contábeis
-Localização do Model.Model.Model.Curso: Centro de Ciências Sociais Aplicadas
+Model.Curso: Ciências Contábeis
+Localização do Model.Curso: Centro de Ciências Sociais Aplicadas
 Vagas oferecidas no Vestibular: 100 na 1ª Entrada e 100 na 2ª Entrada
 Turno(s): Manhã/Noite
 Carga Horária: 3.000 horas
-Duração do Model.Model.Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
+Duração do Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
 
-Model.Model.Model.Curso: Ciência da Computação
-Localização do Model.Model.Model.Curso: Centro de Informática
+Model.Curso: Ciência da Computação
+Localização do Model.Curso: Centro de Informática
 Vagas oferecidas no Vestibular: 50 na 1ª Entrada e 50 na 2ª Entrada
 Turno(s): Manhã/Tarde
 Carga Horária: 3495 horas
-Duração do Model.Model.Model.Curso: Mínima – 09 Semestres/Máxima – 18 Semestres
+Duração do Model.Curso: Mínima – 09 Semestres/Máxima – 18 Semestres
 
-Model.Model.Model.Curso: Ciências Econômicas
-Localização do Model.Model.Model.Curso: Centro de Ciências Sociais Aplicadas
+Model.Curso: Ciências Econômicas
+Localização do Model.Curso: Centro de Ciências Sociais Aplicadas
 Vagas oferecidas no Vestibular: 60 na 1ª Entrada (Manhã) e 60 na 1ª Entrada (Noite)
 Turno(s): Manhã / Noite
 Carga Horária: 3000 horas
-Duração do Model.Model.Model.Curso: Mínima – 08 Semestres/Máxima – 16 Semestres
+Duração do Model.Curso: Mínima – 08 Semestres/Máxima – 16 Semestres
 
-Model.Model.Model.Curso: Ciência Política com Ênfase em Relações Internacionais
+Model.Curso: Ciência Política com Ênfase em Relações Internacionais
 Vagas oferecidas: 50 na 1ª Entrada
 Turno: Diurno (manhã e tarde)
 Carga Horária: 2520 horas
-Duração do Model.Model.Model.Curso: 08 semestres (min.) / 16 semestres (máx.)
+Duração do Model.Curso: 08 semestres (min.) / 16 semestres (máx.)
 Ênfase (opcional): Relações Internacionais
 
-Model.Model.Model.Curso: Ciências Sociais - Bacharelado
-Localização do Model.Model.Model.Curso: Centro de Filosofia e Ciências Humanas
+Model.Curso: Ciências Sociais - Bacharelado
+Localização do Model.Curso: Centro de Filosofia e Ciências Humanas
 Vagas oferecidas no Vestibular:  60 na 1ª Entrada
 Turno:  Tarde
 Carga Horária:  2730 horas
-Duração do Model.Model.Model.Curso: Mínima – 08 Semestres/Máxima – 16 Semestres
+Duração do Model.Curso: Mínima – 08 Semestres/Máxima – 16 Semestres
 
-Model.Model.Model.Curso: Ciências Sociais - Licenciatura
-Localização do Model.Model.Model.Curso: Centro de Filosofia e Ciências Humanas
+Model.Curso: Ciências Sociais - Licenciatura
+Localização do Model.Curso: Centro de Filosofia e Ciências Humanas
 Vagas oferecidas no Vestibular: 40 na 2ª Entrada
 Turno(s): Noite
 Carga Horária: 2895 horas
-Duração do Model.Model.Model.Curso: Mínima – 09 Semestres/Máxima – 16 Semestres
+Duração do Model.Curso: Mínima – 09 Semestres/Máxima – 16 Semestres
 
-Model.Model.Model.Curso: Cinema e Audiovisual
-Localização do Model.Model.Model.Curso: Centro de Artes e Comunicação
+Model.Curso: Cinema e Audiovisual
+Localização do Model.Curso: Centro de Artes e Comunicação
 Vagas oferecidas no Vestibular: Uma entrada (segundo semestre): 50 alunos
 Turno: Tarde
 Carga Horária (horas): 2700
-Duração do Model.Model.Model.Curso: 07 semestres / 14 semestre
+Duração do Model.Curso: 07 semestres / 14 semestre
 
-Model.Model.Model.Curso: Design
-Localização do Model.Model.Model.Curso: Centro de Artes e Comunicação
+Model.Curso: Design
+Localização do Model.Curso: Centro de Artes e Comunicação
 Vagas oferecidas no Vestibular: 35 na 1ª Entrada e 35 na 2ª Entrada
 Turno(s): Manhã/Tarde
 Carga Horária: 3210 horas
-Duração do Model.Model.Model.Curso:  Mínima – 08 Semestres / Máxima – 14 Semestres
+Duração do Model.Curso:  Mínima – 08 Semestres / Máxima – 14 Semestres
 
-Model.Model.Model.Curso: Direito
-Localização do Model.Model.Model.Curso: Faculdade de Direito do Recife
+Model.Curso: Direito
+Localização do Model.Curso: Faculdade de Direito do Recife
 Vagas oferecidas no SISU: 1ª Entrada:  Manhã - 50 vagas, 1ª Entrada:  Noite - 50 vagas, 2ª Entrada:  Manhã - 50 vagas, 2ª Entrada:  Noite - 100 vagas
 Turno(s): Manhã/Noite
 Carga Horária: 3900 horas
-Duração do Model.Model.Model.Curso: Mínima – 10 semestres / Média – 11 semestres / Máxima – 16 semestres
+Duração do Model.Curso: Mínima – 10 semestres / Média – 11 semestres / Máxima – 16 semestres
 
-Model.Model.Model.Curso: Educação Física - Bacharelado
-Centro (Localização do Model.Model.Model.Curso): Centro de Ciências da Saúde
+Model.Curso: Educação Física - Bacharelado
+Centro (Localização do Model.Curso): Centro de Ciências da Saúde
 Vagas oferecidas no Vestibular: 60 na 1ª Entrada e 60 na 2ª Entrada  
 Turno(s): Manhã/Tarde
 Carga Horária: 3.255  horas
-Duração do Model.Model.Model.Curso: Mínima – 08 Semestres/Máxima – 14 Semestres
+Duração do Model.Curso: Mínima – 08 Semestres/Máxima – 14 Semestres
 
-Model.Model.Model.Curso: Educação Física - Licenciatura
-Centro (Localização do Model.Model.Model.Curso): Centro de Ciências da Saúde
+Model.Curso: Educação Física - Licenciatura
+Centro (Localização do Model.Curso): Centro de Ciências da Saúde
 Vagas oferecidas no Vestibular: 60 na 1ª Entrada e 60 na 2ª Entrada
 Turno(s): Manhã/Tarde
 Carga Horária: 2.970 horas
 Turno(s): Manhã/Tarde
-Duração do Model.Model.Model.Curso: Mínima – 08 Semestres/Máxima – 14 Semestres
+Duração do Model.Curso: Mínima – 08 Semestres/Máxima – 14 Semestres
 
-Model.Model.Model.Curso: Enfermagem
-Localização do Model.Model.Model.Curso: Centro de Ciências da Saúde
+Model.Curso: Enfermagem
+Localização do Model.Curso: Centro de Ciências da Saúde
 Vagas oferecidas no Vestibular: 80 (40 na 1ª Entrada e 40 na 2ª Entrada)
 Turno(s): Integral - Manhã e Tarde
 Carga Horária: 4.500 horas
-Duração do Model.Model.Model.Curso: Mínima - 10 semestres / Máxima – 16 semestres
+Duração do Model.Curso: Mínima - 10 semestres / Máxima – 16 semestres
 
-Model.Model.Model.Curso: Engenharia Biomédica
+Model.Curso: Engenharia Biomédica
 Localização: Campus Recife
 Vagas: 30
 Turno: Manhã/Tarde
 Carga horária: 3600h
 Duração do curso: mínima de 10 e máxima de 18 semestres.
 
-Model.Model.Model.Curso: Engenharia Cartográfica de Agrimensura
-Localização do Model.Model.Model.Curso: Centro de Tecnologia e Geociências;
+Model.Curso: Engenharia Cartográfica de Agrimensura
+Localização do Model.Curso: Centro de Tecnologia e Geociências;
 Turno: Manhã/Tarde, Noite
 Vagas oferecidas no Vestibular: 30 na 1ª entrada no turno integral, e 30 na 2ª entrada no turno noturno*;
 Carga Horária: 3735 horas;
-Duração do Model.Model.Model.Curso:  Mínima - 10 Semestres / Máxima – 18 Semestres
+Duração do Model.Curso:  Mínima - 10 Semestres / Máxima – 18 Semestres
 
-Model.Model.Model.Curso: Engenharia CTG (ABI)
-Localização do Model.Model.Model.Curso: Centro de Tecnologia e Geociências
+Model.Curso: Engenharia CTG (ABI)
+Localização do Model.Curso: Centro de Tecnologia e Geociências
 Vagas oferecidas no Vestibular: 50 na 1ª Entrada
 Turno(s): Integral
 Carga Horária: 3.960 horas
-Duração do Model.Model.Model.Curso: Mínima: 10 semestres / Máxima: 16 semestres
+Duração do Model.Curso: Mínima: 10 semestres / Máxima: 16 semestres
 
-Model.Model.Model.Curso: Engenharia da Computação
-Localização do Model.Model.Model.Curso: Centro de Informática
+Model.Curso: Engenharia da Computação
+Localização do Model.Curso: Centro de Informática
 Vagas oferecidas no Vestibular: 50 na 1ª Entrada e 50 na 2ª Entrada
 Turno(s): Manhã/Tarde
 Carga Horária: 4.065 horas
-Duração do Model.Model.Model.Curso: Mínima: 10 semestres / Máxima: 18 semestres
+Duração do Model.Curso: Mínima: 10 semestres / Máxima: 18 semestres
 
-Model.Model.Model.Curso: Engenharia de Minas
-Localização do Model.Model.Model.Curso: Centro de Tecnologia e Geociências
+Model.Curso: Engenharia de Minas
+Localização do Model.Curso: Centro de Tecnologia e Geociências
 Vagas oferecidas no Vestibular: 30 na 1ª Entrada
 Turno(s): Integral
 Carga Horária: 3.960 horas
-Duração do Model.Model.Model.Curso: Mínima: 10 semestres / Máxima: 16 semestres
+Duração do Model.Curso: Mínima: 10 semestres / Máxima: 16 semestres
 
-Model.Model.Model.Curso: Engenharia de Produção
-Localização do Model.Model.Model.Curso: Centro de Tecnologia e Geociências
+Model.Curso: Engenharia de Produção
+Localização do Model.Curso: Centro de Tecnologia e Geociências
 Vagas oferecidas no Vestibular: 50 na 1ª Entrada e 50 na 2ª Entrada
 Turno(s): Manhã/Noite
 Carga Horária: 3.960 horas
-Duração do Model.Model.Model.Curso: Mínima: 10 semestres / Máxima: 16 semestres
+Duração do Model.Curso: Mínima: 10 semestres / Máxima: 16 semestres
 
-Model.Model.Model.Curso: Estatística
-Localização do Model.Model.Model.Curso: Centro de Ciências Exatas e da Natureza
+Model.Curso: Estatística
+Localização do Model.Curso: Centro de Ciências Exatas e da Natureza
 Vagas oferecidas no Vestibular: 30 na 1ª Entrada
 Turno(s): Manhã
 Carga Horária: 2.760 horas
-Duração do Model.Model.Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
+Duração do Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
 
-Model.Model.Model.Curso: Expressão Gráfica - Licenciatura
-Localização do Model.Model.Model.Curso: Centro de Artes e Comunicação
+Model.Curso: Expressão Gráfica - Licenciatura
+Localização do Model.Curso: Centro de Artes e Comunicação
 Vagas oferecidas: 30 na 1ª Entrada
 Turno(s): Manhã/Tarde
 Carga Horária: 3.095 horas
-Duração do Model.Model.Model.Curso: Mínima – 08 Semestres/Máxima – 14 Semestres
+Duração do Model.Curso: Mínima – 08 Semestres/Máxima – 14 Semestres
 
-Model.Model.Model.Curso: Farmácia
-Localização do Model.Model.Model.Curso: Centro de Ciências da Saúde
+Model.Curso: Farmácia
+Localização do Model.Curso: Centro de Ciências da Saúde
 Vagas Oferecidas: 45 na 1ª Entrada e 45 na 2ª Entrada
 Turno(s): Manhã/Tarde
 Carga Horária (horas): 4.500
-Duração do Model.Model.Model.Curso:  Mínima - 10 Semestres / Máxima – 15 Semestres
+Duração do Model.Curso:  Mínima - 10 Semestres / Máxima – 15 Semestres
 
-Model.Model.Model.Curso: Filosofia - Bacharelado
-Localização do Model.Model.Model.Curso: Centro de Filosofia e Ciências Humanas
+Model.Curso: Filosofia - Bacharelado
+Localização do Model.Curso: Centro de Filosofia e Ciências Humanas
 Vagas oferecidas: 20 na 1ª Entrada
 Turno: Tarde
 Carga Horária (horas): 2490 
-Duração do Model.Model.Model.Curso: Mínima – 08 Semestres / Máxima – 14 Semestres
+Duração do Model.Curso: Mínima – 08 Semestres / Máxima – 14 Semestres
 
-Model.Model.Model.Curso: Filosofia - Licenciatura
-Localização do Model.Model.Model.Curso: Centro de Filosofia e Ciências Humanas
+Model.Curso: Filosofia - Licenciatura
+Localização do Model.Curso: Centro de Filosofia e Ciências Humanas
 Vagas oferecidas no Vestibular: 40 na 1ª Entrada
 Turno(s): Manhã/Tarde
 Carga Horária (horas): 2910 
-Duração do Model.Model.Model.Curso: Mínima – 08 Semestres / Máxima – 14 Semestres
+Duração do Model.Curso: Mínima – 08 Semestres / Máxima – 14 Semestres
 
-Model.Model.Model.Curso: Física - Bacharelado
-Localização do Model.Model.Model.Curso: Centro de Ciências Exatas e da Natureza
+Model.Curso: Física - Bacharelado
+Localização do Model.Curso: Centro de Ciências Exatas e da Natureza
 Vagas oferecidas no Vestibular:  30 na 1ª Entrada
 Turno(s): Manhã/Tarde
 Carga Horária :  2560 horas
-Duração do Model.Model.Model.Curso: Mínima – 08 Semestres / Máxima – 12 Semestres
+Duração do Model.Curso: Mínima – 08 Semestres / Máxima – 12 Semestres
 
-Model.Model.Model.Curso: Física - Licenciatura
-Localização do Model.Model.Model.Curso: Centro de Ciências Exatas e da Natureza
+Model.Curso: Física - Licenciatura
+Localização do Model.Curso: Centro de Ciências Exatas e da Natureza
 Vagas oferecidas no Vestibular: 30 na 1ª Entrada 
 Turno(s):  Noite
 Carga Horária:  2895 horas
-Duração do Model.Model.Model.Curso: Mínima – 08 Semestres / Máxima – 14 Semestres
+Duração do Model.Curso: Mínima – 08 Semestres / Máxima – 14 Semestres
 
-Model.Model.Model.Curso: Fisioterapia
-Localização do Model.Model.Model.Curso: Centro de Ciências da Saúde
+Model.Curso: Fisioterapia
+Localização do Model.Curso: Centro de Ciências da Saúde
 Vagas oferecidas no Vestibular: 33 na 1ª Entrada e 33 na 2ª Entrada
 Turno(s): Manhã/Tarde
 Carga Horária (horas): 4140 horas
 
-Model.Model.Model.Curso: Fonoaudiologia
-Localização do Model.Model.Model.Curso: Centro de Ciências da Saúde
+Model.Curso: Fonoaudiologia
+Localização do Model.Curso: Centro de Ciências da Saúde
 Vagas oferecidas no Sisu: 20 na 1ª entrada e 20 na 2ª entrada
 Turno(s): Manhã/Tarde
 Carga Horária (horas): 4000 horas
-Duração do Model.Model.Model.Curso: Mínima - 10 semestres / Máxima – 15 semestres
+Duração do Model.Curso: Mínima - 10 semestres / Máxima – 15 semestres
 
-Model.Model.Model.Curso: Geografia - Bacharelado
+Model.Curso: Geografia - Bacharelado
 Localização do curso: Centro de Filosofia e Ciências Humanas -CFCH (5º e 6º andares)
 Vagas oferecidas no vestibular: 60 vagas, com apenas uma entrada anual
 Turno: Tarde
 Carga Horária Total: 2.510 horas
 Duração: mínima 8 semestres e máxima 14 semestres.
 
-Model.Model.Model.Curso: Geografia - Licenciatura
+Model.Curso: Geografia - Licenciatura
 Localização do curso: Centro de Filosofia e Ciências Humanas -CFCH (5º e 6º andares)
 Vagas oferecidas no vestibular: 120 vagas, com apenas uma entrada anual
 Turnos: manhã e noite
 Carga Horária Total: 2.900 horas
 Duração: mínima 8 semestres e máxima 14 semestres.
 
-Model.Model.Model.Curso: Geologia
-Localização do Model.Model.Model.Curso: Centro de Tecnologia e Geociências
+Model.Curso: Geologia
+Localização do Model.Curso: Centro de Tecnologia e Geociências
 Vagas oferecidas no SISU: 20 na 1ª Entrada e 20 na 2ª Entrada
 Turno(s): Manhã/Tarde
 Carga Horária (horas): 3480
-Duração do Model.Model.Model.Curso: Mínima – 08 Semestres / Máxima – 14 Semestres
+Duração do Model.Curso: Mínima – 08 Semestres / Máxima – 14 Semestres
 
-Model.Model.Model.Curso: Gestão da Informação - Bacharelado
-Localização do Model.Model.Model.Curso: Centro de Artes e Comunicação
+Model.Curso: Gestão da Informação - Bacharelado
+Localização do Model.Curso: Centro de Artes e Comunicação
 Vagas oferecidas no Vestibular: 55 
 Turno: Noite
 Carga Horária: 2.700 horas
-Duração do Model.Model.Model.Curso: Mínima – 08 Semestres/ Máxima – 14 Semestres
+Duração do Model.Curso: Mínima – 08 Semestres/ Máxima – 14 Semestres
 
-Model.Model.Model.Curso: História - Bacharelado
-Localização do Model.Model.Model.Curso: Centro de Filosofia e Ciências Humanas
+Model.Curso: História - Bacharelado
+Localização do Model.Curso: Centro de Filosofia e Ciências Humanas
 Vagas Oferecidas no Vestibular:  35 na 1ª Entrada  
 Turno: Tarde (1ª Entrada) 
 Carga Horária (horas): 2430 
-Duração do Model.Model.Model.Curso: Mínima – 08 Semestres / Máxima – 14 Semestres
+Duração do Model.Curso: Mínima – 08 Semestres / Máxima – 14 Semestres
 
-Model.Model.Model.Curso: História - Licenciatura
-Localização do Model.Model.Model.Curso: Centro de Filosofia e Ciências Humanas
+Model.Curso: História - Licenciatura
+Localização do Model.Curso: Centro de Filosofia e Ciências Humanas
 Vagas Oferecidas no Vestibular:  20 na 1ª Entrada e 55 na 2ª Entrada  
 Turno(s): Tarde (1ª Entrada)/ Noite (2ª Entrada) 
 Carga Horária (horas): 2830 
-Duração do Model.Model.Model.Curso: Mínima – 08 Semestres / Máxima – 14 Semestres
+Duração do Model.Curso: Mínima – 08 Semestres / Máxima – 14 Semestres
 
-Model.Model.Model.Curso: Hotelaria
-Localização do Model.Model.Model.Curso: Prédio anexo ao Centro de Ciências Sociais Aplicadas
+Model.Curso: Hotelaria
+Localização do Model.Curso: Prédio anexo ao Centro de Ciências Sociais Aplicadas
 Vagas Oferecidas no Vestibular: 30 
 Entrada: 2º semestre letivo
 Turno(s): Manhã/Tarde 
 Carga Horária (horas): 2.790
-Duração do Model.Model.Model.Curso: Mínima – 07 Semestres / Máxima – 12 Semestres
+Duração do Model.Curso: Mínima – 07 Semestres / Máxima – 12 Semestres
 
-Model.Model.Model.Curso: Jornalismo
-Localização do Model.Model.Model.Curso: Centro de Artes e Comunicação
+Model.Curso: Jornalismo
+Localização do Model.Curso: Centro de Artes e Comunicação
 Vagas oferecidas no Vestibular: 50
 Turno: Tarde
 Carga Horária: 2.370 horas
-Duração do Model.Model.Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
+Duração do Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
 
-Model.Model.Model.Curso: Letras - Bacharelado
-Localização do Model.Model.Model.Curso: Centro de Artes e Comunicação
+Model.Curso: Letras - Bacharelado
+Localização do Model.Curso: Centro de Artes e Comunicação
 Vagas oferecidas no Vestibular: 30 na 1ª Entrada
 Turno(s): Vespertino
 Carga Horária: 2.700 horas
-Duração do Model.Model.Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
+Duração do Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
 
-Model.Model.Model.Curso: Letras - Licenciatura em Português
-Localização do Model.Model.Model.Curso: Centro de Artes e Comunicação
+Model.Curso: Letras - Licenciatura em Português
+Localização do Model.Curso: Centro de Artes e Comunicação
 Vagas oferecidas no Vestibular: 30 na 1ª Entrada
 Turno(s): Manhã/Tarde
 Carga Horária: 2.700 horas
-Duração do Model.Model.Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
+Duração do Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
 
-Model.Model.Model.Curso: Letras - Licenciatura em Espanhol
-Localização do Model.Model.Model.Curso: Centro de Artes e Comunicação
+Model.Curso: Letras - Licenciatura em Espanhol
+Localização do Model.Curso: Centro de Artes e Comunicação
 Vagas oferecidas no Vestibular: 20 na 1ª Entrada
 Turno(s): Manhã/Tarde
 Carga Horária: 2.700 horas
-Duração do Model.Model.Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
+Duração do Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
 
-Model.Model.Model.Curso: Letras - Licenciatura em Inglês
-Localização do Model.Model.Model.Curso: Centro de Artes e Comunicação
+Model.Curso: Letras - Licenciatura em Inglês
+Localização do Model.Curso: Centro de Artes e Comunicação
 Vagas oferecidas no Vestibular: 20 na 1ª Entrada
 Turno(s): Manhã/Tarde
 Carga Horária: 2.700 horas
-Duração do Model.Model.Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
+Duração do Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
 
-Model.Model.Model.Curso: Letras - Licenciatura em Francês
-Localização do Model.Model.Model.Curso: Centro de Artes e Comunicação
+Model.Curso: Letras - Licenciatura em Francês
+Localização do Model.Curso: Centro de Artes e Comunicação
 Vagas oferecidas no Vestibular: 20 na 1ª Entrada
 Turno(s): Manhã/Tarde
 Carga Horária: 2.700 horas
-Duração do Model.Model.Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
+Duração do Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
 
-Model.Model.Model.Curso: Matemática - Bacharelado
-Localização do Model.Model.Model.Curso: Centro de Ciências Exatas e da Natureza
+Model.Curso: Matemática - Bacharelado
+Localização do Model.Curso: Centro de Ciências Exatas e da Natureza
 Vagas oferecidas no Vestibular: 20 na 1ª Entrada
 Turno(s): Integral
 Carga Horária: 2.640 horas
-Duração do Model.Model.Model.Curso: Mínima: 08 semestres / Máxima: 12 semestres
+Duração do Model.Curso: Mínima: 08 semestres / Máxima: 12 semestres
 
-Model.Model.Model.Curso: Matemática - Licenciatura
-Localização do Model.Model.Model.Curso: Centro de Ciências Exatas e da Natureza
+Model.Curso: Matemática - Licenciatura
+Localização do Model.Curso: Centro de Ciências Exatas e da Natureza
 Vagas oferecidas no Vestibular: 30 na 1ª Entrada
 Turno(s): Noturno
 Carga Horária: 2.700 horas
-Duração do Model.Model.Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
+Duração do Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
 
-Model.Model.Model.Curso: Medicina
-Localização do Model.Model.Model.Curso: Centro de Ciências da Saúde
+Model.Curso: Medicina
+Localização do Model.Curso: Centro de Ciências da Saúde
 Vagas oferecidas no Vestibular: 70 na 1ª Entrada e 70 na 2ª Entrada
 Turno(s): Integral
 Carga Horária: 7.200 horas
-Duração do Model.Model.Model.Curso: Mínima: 12 semestres / Máxima: 18 semestres
+Duração do Model.Curso: Mínima: 12 semestres / Máxima: 18 semestres
 
-Model.Model.Model.Curso: Museologia - Bacharelado
-Localização do Model.Model.Model.Curso: Centro de Filosofia e Ciências Humanas
+Model.Curso: Museologia - Bacharelado
+Localização do Model.Curso: Centro de Filosofia e Ciências Humanas
 Vagas oferecidas no Vestibular: 40 na 1ª Entrada
 Turno(s): Tarde
 Carga Horária: 2.700 horas
-Duração do Model.Model.Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
+Duração do Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
 
-Model.Model.Model.Curso: Nutrição - Bacharelado
-Localização do Model.Model.Model.Curso: Centro de Ciências da Saúde
+Model.Curso: Nutrição - Bacharelado
+Localização do Model.Curso: Centro de Ciências da Saúde
 Vagas oferecidas no Vestibular: 40 na 1ª Entrada e 40 na 2ª Entrada
 Turno(s): Manhã/Tarde
 Carga Horária: 3.420 horas
-Duração do Model.Model.Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
+Duração do Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
 
-Model.Model.Model.Curso: Oceanografia - Bacharelado
-Localização do Model.Model.Model.Curso: Centro de Tecnologia e Geociências
+Model.Curso: Oceanografia - Bacharelado
+Localização do Model.Curso: Centro de Tecnologia e Geociências
 Vagas oferecidas no Vestibular: 30 na 1ª Entrada
 Turno(s): Integral
 Carga Horária: 3.600 horas
-Duração do Model.Model.Model.Curso: Mínima: 10 semestres / Máxima: 18 semestres
+Duração do Model.Curso: Mínima: 10 semestres / Máxima: 18 semestres
 
-Model.Model.Model.Curso: Odontologia
-Localização do Model.Model.Model.Curso: Centro de Ciências da Saúde
+Model.Curso: Odontologia
+Localização do Model.Curso: Centro de Ciências da Saúde
 Vagas oferecidas no Vestibular: 60 na 1ª Entrada
 Turno(s): Integral
 Carga Horária: 5.400 horas
-Duração do Model.Model.Model.Curso: Mínima: 10 semestres / Máxima: 16 semestres
+Duração do Model.Curso: Mínima: 10 semestres / Máxima: 16 semestres
 
-Model.Model.Model.Curso: Pedagogia - Licenciatura
-Localização do Model.Model.Model.Curso: Centro de Educação
+Model.Curso: Pedagogia - Licenciatura
+Localização do Model.Curso: Centro de Educação
 Vagas oferecidas no Vestibular: 100 na 1ª Entrada
 Turno(s): Manhã/Tarde/Noite
 Carga Horária: 2.700 horas
-Duração do Model.Model.Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
+Duração do Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
 
-Model.Model.Model.Curso: Psicologia
-Localização do Model.Model.Model.Curso: Centro de Filosofia e Ciências Humanas
+Model.Curso: Psicologia
+Localização do Model.Curso: Centro de Filosofia e Ciências Humanas
 Vagas oferecidas no Vestibular: 40 na 1ª Entrada e 40 na 2ª Entrada
 Turno(s): Integral
 Carga Horária: 4.410 horas
-Duração do Model.Model.Model.Curso: Mínima: 10 semestres / Máxima: 16 semestres
+Duração do Model.Curso: Mínima: 10 semestres / Máxima: 16 semestres
 
-Model.Model.Model.Curso: Publicidade e Propaganda
-Localização do Model.Model.Model.Curso: Centro de Artes e Comunicação
+Model.Curso: Publicidade e Propaganda
+Localização do Model.Curso: Centro de Artes e Comunicação
 Vagas oferecidas no Vestibular: 50 na 1ª Entrada
 Turno(s): Manhã
 Carga Horária: 2.700 horas
-Duração do Model.Model.Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
+Duração do Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
 
-Model.Model.Model.Curso: Rádio, TV e Internet
-Localização do Model.Model.Model.Curso: Centro de Artes e Comunicação
+Model.Curso: Rádio, TV e Internet
+Localização do Model.Curso: Centro de Artes e Comunicação
 Vagas oferecidas no Vestibular: 30 na 1ª Entrada
 Turno(s): Tarde
 Carga Horária: 2.700 horas
-Duração do Model.Model.Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
+Duração do Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
 
-Model.Model.Model.Curso: Química Industrial
-Localização do Model.Model.Model.Curso: Centro de Ciências Exatas e da Natureza
+Model.Curso: Química Industrial
+Localização do Model.Curso: Centro de Ciências Exatas e da Natureza
 Vagas oferecidas no Vestibular: 30 na 1ª Entrada
 Turno(s): Integral
 Carga Horária: 3.060 horas
-Duração do Model.Model.Model.Curso: Mínima: 10 semestres / Máxima: 16 semestres
+Duração do Model.Curso: Mínima: 10 semestres / Máxima: 16 semestres
 
-Model.Model.Model.Curso: Química - Bacharelado
-Localização do Model.Model.Model.Curso: Centro de Ciências Exatas e da Natureza
+Model.Curso: Química - Bacharelado
+Localização do Model.Curso: Centro de Ciências Exatas e da Natureza
 Vagas oferecidas no Vestibular: 40 na 1ª Entrada
 Turno(s): Integral
 Carga Horária: 2.880 horas
-Duração do Model.Model.Model.Curso: Mínima: 08 semestres / Máxima: 12 semestres
+Duração do Model.Curso: Mínima: 08 semestres / Máxima: 12 semestres
 
-Model.Model.Model.Curso: Química - Licenciatura
-Localização do Model.Model.Model.Curso: Centro de Ciências Exatas e da Natureza
+Model.Curso: Química - Licenciatura
+Localização do Model.Curso: Centro de Ciências Exatas e da Natureza
 Vagas oferecidas no Vestibular: 40 na 1ª Entrada
 Turno(s): Noturno
 Carga Horária: 2.700 horas
-Duração do Model.Model.Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
+Duração do Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
 
-Model.Model.Model.Curso: Secretariado
-Localização do Model.Model.Model.Curso: Centro de Ciências Sociais Aplicadas
+Model.Curso: Secretariado
+Localização do Model.Curso: Centro de Ciências Sociais Aplicadas
 Vagas oferecidas no Vestibular: 30 na 1ª Entrada
 Turno(s): Manhã/Noite
 Carga Horária: 2.700 horas
-Duração do Model.Model.Model.Curso: Mínima: 06 semestres / Máxima: 10 semestres
+Duração do Model.Curso: Mínima: 06 semestres / Máxima: 10 semestres
 
-Model.Model.Model.Curso: Serviço Social
-Localização do Model.Model.Model.Curso: Centro de Ciências Sociais Aplicadas
+Model.Curso: Serviço Social
+Localização do Model.Curso: Centro de Ciências Sociais Aplicadas
 Vagas oferecidas no Vestibular: 50 na 1ª Entrada e 50 na 2ª Entrada
 Turno(s): Manhã/Tarde
 Carga Horária: 3.600 horas
-Duração do Model.Model.Model.Curso: Mínima: 10 semestres / Máxima: 16 semestres
+Duração do Model.Curso: Mínima: 10 semestres / Máxima: 16 semestres
 
-Model.Model.Model.Curso: Sistemas de Informação
-Localização do Model.Model.Model.Curso: Centro de Tecnologia e Geociências
+Model.Curso: Sistemas de Informação
+Localização do Model.Curso: Centro de Tecnologia e Geociências
 Vagas oferecidas no Vestibular: 100 na 1ª Entrada e 100 na 2ª Entrada
 Turno(s): Manhã/Noite
 Carga Horária: 3.000 horas
-Duração do Model.Model.Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
+Duração do Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
 
-Model.Model.Model.Curso: Teatro - Licenciatura
-Localização do Model.Model.Model.Curso: Centro de Artes e Comunicação
+Model.Curso: Teatro - Licenciatura
+Localização do Model.Curso: Centro de Artes e Comunicação
 Vagas oferecidas no Vestibular: 30 na 1ª Entrada
 Turno(s): Manhã/Tarde
 Carga Horária: 2.700 horas
-Duração do Model.Model.Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
+Duração do Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
 
-Model.Model.Model.Curso: Terapia Ocupacional
-Localização do Model.Model.Model.Curso: Centro de Ciências da Saúde
+Model.Curso: Terapia Ocupacional
+Localização do Model.Curso: Centro de Ciências da Saúde
 Vagas oferecidas no Vestibular: 40 na 1ª Entrada e 40 na 2ª Entrada
 Turno(s): Integral
 Carga Horária: 3.900 horas
-Duração do Model.Model.Model.Curso: Mínima: 10 semestres / Máxima: 16 semestres
+Duração do Model.Curso: Mínima: 10 semestres / Máxima: 16 semestres
 
-Model.Model.Model.Curso: Turismo
-Localização do Model.Model.Model.Curso: Centro de Ciências Sociais Aplicadas
+Model.Curso: Turismo
+Localização do Model.Curso: Centro de Ciências Sociais Aplicadas
 Vagas oferecidas no Vestibular: 50 na 1ª Entrada e 50 na 2ª Entrada
 Turno(s): Manhã/Tarde
 Carga Horária: 2.700 horas
-Duração do Model.Model.Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
+Duração do Model.Curso: Mínima: 08 semestres / Máxima: 14 semestres
