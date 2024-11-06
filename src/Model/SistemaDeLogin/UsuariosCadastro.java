@@ -1,4 +1,4 @@
-package SistemaDeLogin;
+package Model.SistemaDeLogin;
 
 import java.io.*;
 import java.util.ArrayList;

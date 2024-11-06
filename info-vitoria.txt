@@ -1,4 +1,4 @@
-Curso: Ciências Biológicas
+Model.Curso: Ciências Biológicas
 Localização: Centro Acadêmico de Vitória
 Vagas Oferecidas no Vestibular: 90 (1ª Entrada 45 e 2ª Entrada 45)
 Turno: Noite
@@ -7,47 +7,47 @@ Duração: mínimo de 9 semestres, sendo o máximo de 13 semestres
 Nota Máxima: 757,71
 Nota Mínima: 660,55
 
-Curso: Educação Física - Bacharelado
+Model.Curso: Educação Física - Bacharelado
 Localização: Núcleo de Educação Física
 Vagas oferecidas no Vestibular: 35 na 2ª Entrada
 Turno(s): Manhã
 Carga Horária: 3.375  horas
-Duração do Curso: Mínima – 08 Semestres/Máxima – 14 Semestres
+Duração do Model.Curso: Mínima – 08 Semestres/Máxima – 14 Semestres
 Nota Máxima: 765,42
 Nota Mínima: 649,68
 
-Curso: Educação Física - Licenciatura
+Model.Curso: Educação Física - Licenciatura
 Localização: Centro Acadêmico da Vitória 
 Vagas oferecidas no Vestibular: 40/semestre
 Turno(s): Diurno
 Carga Horária: 3.180 horas
-Duração do Curso: Mínima – 08 Semestres/Máxima – 14 Semestres
+Duração do Model.Curso: Mínima – 08 Semestres/Máxima – 14 Semestres
 Nota Máxima: 673,89
 Nota Mínima: 620,68
 
-Curso: Enfermagem
+Model.Curso: Enfermagem
 Localização: Centro Acadêmico da Vitória 
 Vagas oferecidas no Vestibular: 60
 Turno(s): Manhã/Tarde
 Carga Horária: 4.185 horas
-Duração do Curso: 10 Semestres
+Duração do Model.Curso: 10 Semestres
 Nota Máxima: 788,21
 Nota Mínima: 724,71
 
-Curso: Nutrição
+Model.Curso: Nutrição
 Localização: Centro Acadêmico de Vitória
 Vagas oferecidas no Vestibular: 60 (30 – 1ª Entrada / 30 – 2ª Entrada)
 Turno(s): Manhã/Tarde
 Carga Horária: 3.525 horas
-Duração do Curso: Mínima – 08 Semestres/Máxima – 14 Semestres
+Duração do Model.Curso: Mínima – 08 Semestres/Máxima – 14 Semestres
 Nota Máxima: 790,76
 Nota Mínima: 692,82
 
-Curso: Saúde Coletiva
+Model.Curso: Saúde Coletiva
 Localização: Centro Acadêmico de Vitória
 Vagas oferecidas no Vestibular: 60
 Turno(s): Tarde/Noite
 Carga Horária: 3.000 horas
-Duração do Curso: Mínima – 08 Semestres/Máxima – 14 Semestres
+Duração do Model.Curso: Mínima – 08 Semestres/Máxima – 14 Semestres
 Nota Máxima: 702,87
 Nota Mínima: 633,22
