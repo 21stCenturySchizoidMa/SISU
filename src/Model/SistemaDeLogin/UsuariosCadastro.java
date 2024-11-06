@@ -1,22 +1,18 @@
-package SistemaDeLogin;
+package Model.SistemaDeLogin;
 
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class UsuariosCadastro {
+public class UsuariosCadastro extends Usuario {
     private static final String FILE_NAME = "USUARIOS.txt";
     private static ArrayList<UsuariosCadastro> usuario;
 
-    private String login;
-    private String senha;
-    private String nome, cpf, idade, email, telefone;
     public String escolha;
     public String novoDado;
 
     public UsuariosCadastro(String login, String senha) {
-        this.login = login;
-        this.senha = senha;
+        super(login, senha);
     }
 
     public UsuariosCadastro() {
@@ -34,26 +30,6 @@ public class UsuariosCadastro {
         email = sc.nextLine();
         System.out.print("Digite seu telefone: ");
         telefone = sc.nextLine();
-    }
-
-    public String getNome() {
-        return nome;
-    }
-
-    public String getCpf() {
-        return cpf;
-    }
-
-    public String getIdade() {
-        return idade;
-    }
-
-    public String getEmail() {
-        return email;
-    }
-
-    public String getTelefone() {
-        return telefone;
     }
 
     public String toString() {
@@ -153,22 +129,6 @@ public class UsuariosCadastro {
             }
         }
         return false;
-    }
-
-    public String getLogin() {
-        return login;
-    }
-
-    public void setLogin(String login) {
-        this.login = login;
-    }
-
-    public String getSenha() {
-        return senha;
-    }
-
-    public void setSenha(String senha) {
-        this.senha = senha;
     }
 
     private static void carregarDados() {

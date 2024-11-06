@@ -1,76 +1,76 @@
-Curso: Administração
+Model.Model.Model.Curso: Administração
 Localização: Centro Acadêmico do Agreste
 Vagas Oferecidas no Vestibular: 160 (1ª Entrada 80 - 40 Manhã e 40 Noite - e 2ª Entrada 80 - 40 Manhã e 40 Noite)
 Turno(s): Manhã / Noite
 Carga Horária: 3120 horas
-Duração do Curso: Mínima – 08 Semestres/Máxima – 14 Semestres
+Duração do Model.Model.Model.Curso: Mínima – 08 Semestres/Máxima – 14 Semestres
 Nota Máxima: 789,88
 Nota Mínima: 675,49
 
-Curso: Ciências Econômicas
+Model.Model.Model.Curso: Ciências Econômicas
 Localização: Centro Acadêmico do Agreste
 Vagas oferecidas no Vestibular: 100 (1ª Entrada - 50 e 2ª Entrada - 50)
 Turno: Noite
 Carga Horária: 3000 horas
-Duração do Curso: Mínima – 08 Semestres/Máxima – 14 Semestres
+Duração do Model.Model.Model.Curso: Mínima – 08 Semestres/Máxima – 14 Semestres
 Nota Máxima: 858,64
 Nota Mínima: 684,70
 
-Curso: Comunicação Social
+Model.Model.Model.Curso: Comunicação Social
 Localização: Centro Acadêmico do Agreste
 Vagas Oferecidas no Vestibular: 40 vagas 
 Turno(s):  Manhã/tarde - Predominantemente Tarde
 Carga Horária:  3.030 horas
-Duração do Curso: Mínima – 08 Semestres/Máxima – 14 Semestres
+Duração do Model.Model.Model.Curso: Mínima – 08 Semestres/Máxima – 14 Semestres
 Nota Máxima: 804,19
 Nota Mínima: 715,56
 
-Curso: Design
+Model.Model.Model.Curso: Design
 Localização: Campus do Agreste - Caruaru/PE
 Vagas Oferecidas no Vestibular: 160 (1ª Entrada - Diurno: 40 e Noturno: 40 / 2ª Entrada - Diurno: 40 e Noturno: 40)
 Turno(s): Manhã / Noite
 Carga Horária: 3030 horas
-Duração do Curso: Mínima: 8 Semestres / Máxima: 14 Semestres
+Duração do Model.Model.Model.Curso: Mínima: 8 Semestres / Máxima: 14 Semestres
 Nota Máxima: 800,44
 Nota Mínima: 678,71
 
-Curso: Engenharia Civil
+Model.Model.Model.Curso: Engenharia Civil
 Localização: Campus Agreste
 Vagas Oferecidas no Vestibular: 80 (40 vagas por entrada)
 Turno(s): Manhã/Tarde
 Carga Horária: 4100 horas
-Duração do Curso: 10 Semestres (Máxima: 18 Semestres)
+Duração do Model.Model.Model.Curso: 10 Semestres (Máxima: 18 Semestres)
 Nota Máxima: 807,26
 Nota Mínima: 691,15
 
-Curso: Engenharia de Produção
+Model.Model.Model.Curso: Engenharia de Produção
 Localização: Centro Acadêmico do Agreste
 Vagas oferecidas no Vestibular: 80 (1ª Entrada 40 Manhã e Tarde -  2ª Entrada 40 -  Manhã e Tarde)
 Turno(s): Manhã/Tarde
 Carga Horária: 3.600 horas
-Duração do Curso: Mínima - 10 Semestres / Máxima – 18 Semestres
+Duração do Model.Model.Model.Curso: Mínima - 10 Semestres / Máxima – 18 Semestres
 Nota Máxima: 813,42
 Nota Mínima: 671,32
 
-Curso: Física - Licenciatura
+Model.Model.Model.Curso: Física - Licenciatura
 Localização: Centro Acadêmico do Agreste
 Vagas Oferecidas no Vestibular: 80 (40 – 1ª Entrada e 40 – 2ª Entrada)
 Turno(s): Noite
 Carga Horária: 3.180 horas
-Duração do Curso: Mínima – 09 Semestres / Máxima – 14 Semestres
+Duração do Model.Model.Model.Curso: Mínima – 09 Semestres / Máxima – 14 Semestres
 Nota Máxima: 768,48
 Nota Mínima: 653,82
 
-Curso: Matemática - Licenciatura
+Model.Model.Model.Curso: Matemática - Licenciatura
 Localização: Centro Acadêmico do Agreste
 Vagas Oferecidas no Vestibular: 80 (40 – 1ª Entrada e 40 – 2ª Entrada)
 Turno(s): Noite
 Carga Horária: 3.150  horas
-Duração do Curso: Mínima – 09 Semestres / Máxima – 14 Semestres
+Duração do Model.Model.Model.Curso: Mínima – 09 Semestres / Máxima – 14 Semestres
 Nota Máxima: 826,23
 Nota Mínima: 708,58
 
-Curso: Medicina
+Model.Model.Model.Curso: Medicina
 Localização: Centro Acadêmico do Agreste
 Vagas Oferecidas no Vestibular: 80 vagas (Entrada Anual)
 Turno(s): Integral
@@ -79,20 +79,20 @@ Duração: Mínima –  12 Semestres / Máxima – 18 Semestres
 Nota Máxima: 886,24
 Nota Mínima: 854,48
 
-Curso: Pedagogia - Licenciatura
+Model.Model.Model.Curso: Pedagogia - Licenciatura
 Localização: Centro Acadêmico do Agreste
 Vagas oferecidas no Vestibular: 80 (1ª Entrada – 40 e 2ª Entrada – 40)
 Turno: Noite
 Carga Horária: 3220 horas Magistério
-Duração do Curso: Mínima – 09 Semestres/Máxima – 14 Semestres
+Duração do Model.Model.Model.Curso: Mínima – 09 Semestres/Máxima – 14 Semestres
 Nota Máxima: 754,67
 Nota Mínima: 652,25
 
-Curso: Química - Licenciatura
+Model.Model.Model.Curso: Química - Licenciatura
 Localização: Centro Acadêmico do Agreste
 Vagas Oferecidas no Vestibular: 80 (40 – 1ª Entrada e 40 – 2ª Entrada)
 Turno(s): Noite
 Carga Horária: 3.270  horas
-Duração do Curso: Mínima – 10 Semestres / Máxima – 14 Semestres
+Duração do Model.Model.Model.Curso: Mínima – 10 Semestres / Máxima – 14 Semestres
 Nota Máxima: 696,96
 Nota Mínima: 625,85

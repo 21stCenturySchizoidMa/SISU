@@ -1,4 +1,4 @@
-package Curso;
+package Model.Curso;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

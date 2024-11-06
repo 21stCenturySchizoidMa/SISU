@@ -1,4 +1,4 @@
-package Notas;
+package Model.Notas;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -63,7 +63,7 @@ public class CalcularNotas {
         float[] pesos = cursosPesos.get(curso);
 
         if (pesos == null) {
-            System.out.println("Curso não encontrado.");
+            System.out.println("Model.Model.Model.Curso não encontrado.");
             return 0;
         }
 
