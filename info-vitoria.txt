@@ -1,4 +1,4 @@
-Model.Curso: Ciências Biológicas
+Curso: Ciências Biológicas
 Localização: Centro Acadêmico de Vitória
 Vagas Oferecidas no Vestibular: 90 (1ª Entrada 45 e 2ª Entrada 45)
 Turno: Noite
@@ -7,7 +7,7 @@ Duração: mínimo de 9 semestres, sendo o máximo de 13 semestres
 Nota Máxima: 757,71
 Nota Mínima: 660,55
 
-Model.Curso: Educação Física - Bacharelado
+Curso: Educação Física - Bacharelado
 Localização: Núcleo de Educação Física
 Vagas oferecidas no Vestibular: 35 na 2ª Entrada
 Turno(s): Manhã
@@ -16,7 +16,7 @@ Duração do Model.Curso: Mínima – 08 Semestres/Máxima – 14 Semestres
 Nota Máxima: 765,42
 Nota Mínima: 649,68
 
-Model.Curso: Educação Física - Licenciatura
+Curso: Educação Física - Licenciatura
 Localização: Centro Acadêmico da Vitória 
 Vagas oferecidas no Vestibular: 40/semestre
 Turno(s): Diurno
@@ -25,7 +25,7 @@ Duração do Model.Curso: Mínima – 08 Semestres/Máxima – 14 Semestres
 Nota Máxima: 673,89
 Nota Mínima: 620,68
 
-Model.Curso: Enfermagem
+Curso: Enfermagem
 Localização: Centro Acadêmico da Vitória 
 Vagas oferecidas no Vestibular: 60
 Turno(s): Manhã/Tarde
@@ -34,7 +34,7 @@ Duração do Model.Curso: 10 Semestres
 Nota Máxima: 788,21
 Nota Mínima: 724,71
 
-Model.Curso: Nutrição
+Curso: Nutrição
 Localização: Centro Acadêmico de Vitória
 Vagas oferecidas no Vestibular: 60 (30 – 1ª Entrada / 30 – 2ª Entrada)
 Turno(s): Manhã/Tarde
@@ -43,7 +43,7 @@ Duração do Model.Curso: Mínima – 08 Semestres/Máxima – 14 Semestres
 Nota Máxima: 790,76
 Nota Mínima: 692,82
 
-Model.Curso: Saúde Coletiva
+Curso: Saúde Coletiva
 Localização: Centro Acadêmico de Vitória
 Vagas oferecidas no Vestibular: 60
 Turno(s): Tarde/Noite
