@@ -94,9 +94,12 @@ public class Main {
                                         if (user.getLogin().equals(login)) {
                                             System.out.println("\nInformações do usuário:");
                                             System.out.println("Nome: " + user.getNome());
+                                            System.out.println("Genero: " + user.getGenero());
+                                            System.out.println("cpf: " + user.getCpf());
                                             System.out.println("Email: " + user.getEmail());
                                             System.out.println("Idade: " + user.getIdade());
                                             System.out.println("Telefone: " + user.getTelefone());
+                                            System.out.println("endereco: " + user.getEndereco());
                                         }
                                     }
                                     break;

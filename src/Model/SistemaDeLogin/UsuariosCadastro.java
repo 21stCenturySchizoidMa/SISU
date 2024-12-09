@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class UsuariosCadastro extends Usuario {
     private static final String FILE_NAME = "USUARIOS.txt";
-    private static ArrayList<UsuariosCadastro> usuario;
+    private static ArrayList<UsuariosCadastro> usuario = new ArrayList<UsuariosCadastro>();
 
     public String escolha;
     public String novoDado;
@@ -16,24 +16,32 @@ public class UsuariosCadastro extends Usuario {
     }
 
     public UsuariosCadastro() {
-        usuario = new ArrayList<>();
         carregarDados();
     }
 
     public void informacoesDoUsuario() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Digite seu nome: ");
-        nome = sc.nextLine();
+        this.setNome(sc.nextLine());
+        System.out.print("Digite seu genero: ");
+        this.setGenero(sc.nextLine());
+        System.out.println("Digite seu cpf: ");
+        this.setCpf(sc.nextLine());
         System.out.print("Digite sua idade: ");
-        idade = sc.nextLine();
+        this.setIdade(sc.nextLine());
         System.out.print("Digite seu e-mail: ");
-        email = sc.nextLine();
+        this.setEmail(sc.nextLine());
         System.out.print("Digite seu telefone: ");
-        telefone = sc.nextLine();
+        this.setTelefone(sc.nextLine());
+        System.out.println("Digite seu endereço: ");
+        this.setEndereco(sc.nextLine());
     }
 
     public String toString() {
-        return login + " | " + senha + " | " + nome + " | " + idade + " | " + email + " | " + telefone;
+        return super.getLogin() + " | " + super.getSenha() + " | " +
+                super.getNome() + " | " + super.getIdade() + " | " +
+                super.getEmail() + " | " + super.getTelefone() + " | " +
+                super.getEndereco();
     }
 
     public void atualizarInformacoesDoUsuario() {
@@ -49,22 +57,37 @@ public class UsuariosCadastro extends Usuario {
                 switch (novoDado.toLowerCase()) {
                     case "nome":
                         System.out.print("\nDigite seu novo nome: ");
-                        this.nome = sc.nextLine();
+                        this.setNome(sc.nextLine());
+                        break;
+
+                    case "genero":
+                        System.out.print("\nDigite seu novo genero: ");
+                        this.setGenero(sc.nextLine());
+                        break;
+
+                    case "cpf":
+                        System.out.print("\nDigite seu novo cpf: ");
+                        this.setCpf(sc.nextLine());
                         break;
 
                     case "idade":
                         System.out.print("Digite sua nova idade: ");
-                        this.idade = sc.nextLine();
+                        this.setIdade(sc.nextLine());
                         break;
 
                     case "email":
                         System.out.print("Digite seu novo e-mail: ");
-                        this.email = sc.nextLine();
+                        this.setEmail(sc.nextLine());
                         break;
 
                     case "telefone":
                         System.out.print("Digite seu novo telefone: ");
-                        this.telefone = sc.nextLine();
+                        this.setTelefone(sc.nextLine());
+                        break;
+
+                    case "endereco":
+                        System.out.println("Digite seu novo endereço: ");
+                        this.setEndereco(sc.nextLine());
                         break;
 
                     default:
@@ -81,13 +104,19 @@ public class UsuariosCadastro extends Usuario {
 
             if (escolha.equalsIgnoreCase("sim")) {
                 System.out.print("Digite seu novo nome: ");
-                this.nome = sc.nextLine();
+                this.setNome(sc.nextLine());
+                System.out.println("Digite seu novo genero: ");
+                this.setGenero(sc.nextLine());
+                System.out.println("Digite seu novo cpf: ");
+                this.setCpf(sc.nextLine());
                 System.out.print("Digite sua nova idade: ");
-                this.idade = sc.nextLine();
+                this.setIdade(sc.nextLine());
                 System.out.print("Digite seu novo e-mail: ");
-                this.email = sc.nextLine();
+                this.setEmail(sc.nextLine());
                 System.out.print("Digite seu novo telefone: ");
-                this.telefone = sc.nextLine();
+                this.setTelefone(sc.nextLine());
+                System.out.println("Digite seu novo endereço");
+                this.setEndereco(sc.nextLine());
             } else {
                 System.out.println("Nenhum dado foi alterado.");
             }
@@ -104,8 +133,8 @@ public class UsuariosCadastro extends Usuario {
         if (verificarUsuarioExistente(login)) {
             System.out.println("Usuário existente!");
         } else {
-            this.login = login;
-            this.senha = senha;
+            this.setLogin(login);
+            this.setSenha(senha);
             informacoesDoUsuario();
             usuario.add(this);
             salvarDados();
@@ -115,7 +144,7 @@ public class UsuariosCadastro extends Usuario {
 
     public boolean verificarUsuario(String login, String senha) {
         for (UsuariosCadastro user : usuario) {
-            if (user.login.equals(login) && user.senha.equals(senha)) {
+            if (user.getLogin().equals(login) && user.getSenha().equals(senha)) {
                 return true;
             }
         }
@@ -124,7 +153,7 @@ public class UsuariosCadastro extends Usuario {
 
     public boolean verificarUsuarioExistente(String login) {
         for (UsuariosCadastro user : usuario) {
-            if (user.login.equals(login)) {
+            if (user.getLogin().equals(login)) {
                 return true;
             }
         }
@@ -141,12 +170,15 @@ public class UsuariosCadastro extends Usuario {
             String linha;
             while ((linha = reader.readLine()) != null) {
                 String[] dados = linha.split(" \\| ");
-                if (dados.length >= 6) {
+                if (dados.length >= 8) {
                     UsuariosCadastro usuarioNovo = new UsuariosCadastro(dados[0], dados[1]);
-                    usuarioNovo.nome = dados[2];
-                    usuarioNovo.idade = dados[3];
-                    usuarioNovo.email = dados[4];
-                    usuarioNovo.telefone = dados[5];
+                    usuarioNovo.setNome(dados[2]);
+                    usuarioNovo.setGenero(dados[3]);
+                    usuarioNovo.setCpf(dados[4]);
+                    usuarioNovo.setIdade(dados[5]);
+                    usuarioNovo.setEmail(dados[6]);
+                    usuarioNovo.setTelefone(dados[7]);
+                    usuarioNovo.setEndereco(dados[8]);
                     usuario.add(usuarioNovo);
                 }
             }

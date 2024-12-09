@@ -42,12 +42,17 @@ public class CalcularNotas {
                     }
                     String curso = cursoBuilder.toString();
 
-                    float[] pesos = new float[5];
-                    for (int i = 0; i < 5; i++) {
-                        pesos[i] = Float.parseFloat(partes[indiceInicioPesos + i]);
+
+                    try{
+                        float[] pesos = new float[5];
+                        for (int i = 0; i < 5; i++) {
+                            pesos[i] = Float.parseFloat(partes[indiceInicioPesos + i]);
+                        }
+                        cursosPesos.put(curso, pesos);
+                        cursos.add(curso);
+                    }catch(NumberFormatException | ArrayIndexOutOfBoundsException e){
+                        System.out.println("linha mal formada " + linha);
                     }
-                    cursosPesos.put(curso, pesos);
-                    cursos.add(curso);
                 }
             } catch (IOException e) {
                 System.out.println("Erro ao carregar dados: " + e.getMessage());
