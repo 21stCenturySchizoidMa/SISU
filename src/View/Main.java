@@ -43,7 +43,7 @@ public class Main {
                                 case "2":
                                     Scanner sc = new Scanner(System.in);
                                     System.out.println("Calcule sua média ponderada.");
-                                    System.out.print("\nDigite o campus (recife, agreste, vitoria): ");
+                                    System.out.print("\nDigite o campus (recife, agreste, vitoria ): ");
                                     String campus = sc.next().toLowerCase();
 
                                     List<String> cursosDisponiveis = calc.CarregarDados(campus);
